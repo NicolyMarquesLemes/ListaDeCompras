@@ -4,9 +4,30 @@
 }
 
 body{
-    background-image: url(telas-site-tecseed-35.jpg);
+    background-image: url(morangue.jpg);
 }
 
 h1{
     text-align: center;
+}
+
+input{
+    border-radius: 7px;
+}
+
+header{
+    background-color: rgba(237, 76, 106, 0.905);
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+form{
+    text-align: center;
+    background-color: rgba(236, 49, 145, 0.699);
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 10px;
 }
